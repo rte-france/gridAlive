@@ -1,0 +1,9 @@
+[submodule "l2rpn-baselines"]
+	path = l2rpn-baselines
+	url = https://github.com/rte-france/l2rpn-baselines
+[submodule "Grid2Op"]
+	path = Grid2Op
+	url = https://github.com/rte-france/Grid2Op
+[submodule "grid2viz"]
+	path = grid2viz
+	url = https://github.com/mjothy/grid2viz
