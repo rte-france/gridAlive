@@ -27,6 +27,7 @@ Here are the interesting features of GridAlive:
 5. **[In-depth analytics of the experiments with Grid2viz](https://github.com/mjothy/grid2viz)** for evaluating the agents and environments, and to help pick the best solution.
 6. **[Open-source algorithm implementations](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
 
+![GridAlive overview](https://github.com/rte-france/gridAlive/pictures/GridALive_schematic)
 
 
 
