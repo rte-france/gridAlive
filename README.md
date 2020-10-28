@@ -12,7 +12,7 @@ These competitions demonstrated the richfullness of GridALive framework to desig
 2. **[Synthetic Data Generation with ChroniX2Grid](https://github.com/mjothy/ChroniX2Grid)** to model realistic chronics of any power system worldwide, as they are today or will be tomorrow. 
 3. **[An experimentation framework with Grid2op](https://github.com/rte-france/Grid2Op)** for developping new environments and running hundreds of trials under different configurations, with logs, plots and analytics for testing new control algorithms. Experimental settings are stored in standardized JSONs for reproducibility and comparisons.
 4. **[Interfacing the simulator of your choice](https://github.com/rte-france/gridAlive/backends)** depending on the problem requirements or for benchmarking similar simulators.
-5. **[Automated analytics of the experiments with Grid2viz](https://github.com/mjothy/grid2viz)** for evaluating the agents and environments, and to help pick the best solution.
+5. **[In-depth analytics of the experiments with Grid2viz](https://github.com/mjothy/grid2viz)** for evaluating the agents and environments, and to help pick the best solution.
 6. **[Open-source algorithm implementations](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
 
 
