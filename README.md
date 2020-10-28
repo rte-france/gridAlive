@@ -1,9 +1,18 @@
 # GridAlive
 
-GridAlive is a new experimentation framework offering a handy **full lab ecosystem** to model and study a large class of power system problems. 
+GridAlive is a **full lab ecosystem** to model and study a large class of power system related problems.It relies on [Grid2op](https://github.com/rte-france/Grid2Op) experimentation framework at its core.
 
 More specifically, it let one model time-dependant and decision-making problems such as real-time power grid operations or future grid development. 
 Recent **competitions along NeurIPS 2020 conference** tackled such problems indeed (see https://l2rpn.chalearn.org/ for more information). 
-These competitions demonstrated the richfullness of GridALive framework to design and run such large scale experiments, which now turn into benchmarks that help the research community make new advances at large.
+These competitions demonstrated the richfullness of GridALive framework to design and run such large scale experiments, which now turn into benchmarks that help the research community make new advances at large together.
+
+## Features
+
+1. **Unified environment and agent interface** using OpenAI Gym, Tensorflow, Keras and more, so you can focus on developing control algorithms.
+2. **[Open-source algorithm implementations](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
+3. **[An experimentation framework with Grid2op](https://github.com/rte-france/Grid2Op)** for running hundreds of trials under different configurations, with logs, plots and analytics for testing new control algorithms. Experimental settings are stored in standardized JSONs for reproducibility and comparisons.
+4. **[Automated analytics of the experiments with Grid2viz](https://github.com/mjothy/grid2viz)** for evaluating the agents and environments, and to help pick the best solution..
+
+
 
 
