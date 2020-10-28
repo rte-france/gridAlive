@@ -8,12 +8,12 @@ These competitions demonstrated the richfullness of GridALive framework to desig
 
 ## A lab
 A lab is a place with a set of tools and a framework where you can:
--- study and model a large class of problems 
--- define and implement new experiments 
--- run and analyze experiments
--- reproduce and share experiments
--- replay experiments on demand
--- create new benchmarks
+- study and model a large class of problems 
+- define and implement new experiments 
+- run and analyze experiments
+- reproduce and share experiments
+- replay experiments on demand
+- create new benchmarks
 
 A lab can address the experimentation needs for many kind of users.
 
