@@ -29,7 +29,13 @@ Here are the interesting features of GridAlive:
 
 ![GridAlive overview](https://github.com/rte-france/gridAlive/blob/master/pictures/GridALive_schematic.png)
 
+# License information
+Copyright 2019-2020 RTE France
 
+    RTE: http://www.rte-france.com
+
+This Source Code is subject to the terms of the Mozilla Public License (MPL) v2 also available 
+[here](https://www.mozilla.org/en-US/MPL/2.0/)
 
 
 
