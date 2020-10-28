@@ -15,7 +15,7 @@ A lab is a place with a set of tools and a framework where you can:
 - replay experiments on demand
 - create new benchmarks
 
-A lab can address the experimentation needs for many kind of users. It aims at standardizing and automating the most time-consuming parts of the experimentation process, making it easy to run relevant experiments. It also makse possible combining experiments or building on top of existing ones to tackle even more advance problems without remodeling and reimplementing everything from scratch. It hence modularize experiments.
+A lab can address the experimentation needs for many kind of users. It aims at standardizing and automating the most time-consuming parts of the experimentation process, making it easy to run relevant experiments. It also makse possible combining experiments or building on top of existing ones to tackle even more advance problems without remodeling and reimplementing everything from scratch. It hence modularizes experiments.
 
 ## Features
 
