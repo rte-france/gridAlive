@@ -23,11 +23,11 @@ Here are the interesting features of GridAlive:
 1. **Unified environment and agent interface** using OpenAI Gym, Tensorflow, Keras and more, so you can focus on developing control algorithms.
 2. **[Synthetic Data Generation with ChroniX2Grid](https://github.com/BDonnot/ChroniX2Grid)** to model realistic chronics of any power system worldwide, as they are today or will be tomorrow. 
 3. **[An experimentation framework with Grid2op](https://github.com/rte-france/Grid2Op)** for developping new environments and running hundreds of trials under different configurations, with logs, plots and analytics for testing new control algorithms. Experimental settings are stored in standardized JSONs for reproducibility and comparisons.
-4. **[Interfacing the simulator of your choice](https://github.com/rte-france/gridAlive/backends)** depending on the problem requirements or for benchmarking similar simulators.
+4. **[Interfacing the simulator of your choice](https://github.com/rte-france/gridAlive/backends)** depending on the problem requirements or for benchmarking similar simulators. **Lightsim2grid** can be a first handy a fast simulator to run.
 5. **[In-depth analytics of the experiments with Grid2viz](https://github.com/rte-france/grid2viz)** for evaluating the agents and environments, and to help pick the best solution.
-6. **[Custom Benchmarking evaluation tool](https://github.com/IRT-SystemX/Grid2Bench)** for automatically benchmarking several agents on list of custom KPIs through a report generation
-7. **[Open-source algorithm implementations](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
-8. **[Interactive Human-AI GUI](https://github.com/BDonnot/grid2game),** for letting human play decision scenarios assisted by an AI agent, to experiment with hybrid Human-AI collaboration
+6. **[Custom Benchmarking evaluation tool with Grid2Bench](https://github.com/IRT-SystemX/Grid2Bench)** for automatically benchmarking several agents on list of custom KPIs through a report generation
+7. **[Open-source algorithm implementations with l2rpn-baselines](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
+8. **[Interactive Human-AI GUI with Grid2game](https://github.com/BDonnot/grid2game),** for letting human play decision scenarios assisted by an AI agent, to experiment with hybrid Human-AI collaboration
 
 ![GridAlive overview](https://github.com/rte-france/gridAlive/blob/master/pictures/GridALive_schematic.png)
 
