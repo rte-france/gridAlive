@@ -6,4 +6,16 @@
 	url = https://github.com/rte-france/Grid2Op
 [submodule "grid2viz"]
 	path = grid2viz
-	url = https://github.com/mjothy/grid2viz
+	url = https://github.com/rte-france/grid2viz
+[submodule "chronix2grid"]
+	path = chronix2grid
+	url = https://github.com/BDonnot/ChroniX2Grid
+[submodule "grid2bench"]
+	path = grid2bench
+	url = https://github.com/IRT-SystemX/Grid2Bench
+[submodule "grid2game"]
+	path = grid2game
+	url = https://github.com/BDonnot/grid2game
+[submodule "lightsim2grid"]
+	path = lightsim2grid
+	url = https://github.com/BDonnot/lightsim2grid
