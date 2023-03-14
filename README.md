@@ -29,7 +29,7 @@ Here are the interesting features of GridAlive:
 7. **[Open-source algorithm implementations with l2rpn-baselines](https://github.com/rte-france/l2rpn-baselines), with reusable modular components** for developing more advanced algorithms or benchmarking over new environments.
 8. **[Interactive Human-AI GUI with Grid2game](https://github.com/BDonnot/grid2game),** for letting human play decision scenarios assisted by an AI agent, to experiment with hybrid Human-AI collaboration
 
-![GridAlive overview](https://github.com/rte-france/gridAlive/blob/master/pictures/GridALive_schematic.png)
+
 
 # License information
 Copyright 2019-2020 RTE France
